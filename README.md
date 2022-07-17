@@ -9,4 +9,5 @@ An automated system is introduced to identify different diseases on plants by ch
 
 ====> https://drive.google.com/drive/folders/1GnkSn3Kwtylaq6bCqcEWxZJRVkxCvMO7?usp=sharing
 
-DEMO VIDEO LINK:
+# DEMO VIDEO LINK:
+==> https://drive.google.com/file/d/1-RGf0bNRl6_YSKoj9oOpkxkUeok_WAqv/view?usp=sharing
