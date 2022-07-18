@@ -11,3 +11,6 @@ An automated system is introduced to identify different diseases on plants by ch
 
 # DEMO VIDEO LINK:
 ==> https://drive.google.com/file/d/1-RGf0bNRl6_YSKoj9oOpkxkUeok_WAqv/view?usp=sharing
+
+# Total project Zip:  DUE TO SIZE OF ZIP FILE IS LARGE, SO PUSHED IN TO DRIVE....
+====> https://drive.google.com/file/d/1tCSigBLNz2ikEGZszEEd4Hj3DKfQl3FX/view?usp=sharing
