@@ -24,3 +24,21 @@
 # Total project Zip:  DUE TO SIZE OF ZIP FILE IS LARGE, SO PUSHED IN TO DRIVE....
 ====> https://drive.google.com/file/d/1tCSigBLNz2ikEGZszEEd4Hj3DKfQl3FX/view?usp=sharing
 
+# Course completion badges earned:
+#
+ ╰┈➤ Improving Healthcare: The Role of Cloud Computing:
+        https://www.credly.com/badges/2b24d02b-3233-4fb5-a6b0-70c93fc4fd82/public_url
+ 
+ ╰┈➤ Getting Started with Enterprise-grade AI
+        https://www.credly.com/badges/f82da421-1f6f-4fce-9b8b-2f81ee5a34e7/public_url
+ 
+ ╰┈➤ Getting Started with Enterprise Data Science
+        https://www.credly.com/badges/c98beaf1-5566-4b1a-9929-2a18b776916c/public_url
+ 
+ ╰┈➤ Deep Learning Essentials
+        https://www.credly.com/badges/71da2ec7-4331-456a-bd6e-f78b2b5fb224/public_url
+ 
+ 
+  
+ 
+ 
